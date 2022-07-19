@@ -1,2 +1,4 @@
-# git_basics
+# Git and GitHub Basics
+## Introduction
+
 Understanding/Training Git and GitHub
